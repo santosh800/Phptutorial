@@ -1,5 +1,7 @@
 <?php
-
+/*
+embending php in html example
+*/
 $embend_text="enter your name here...";
 
 ?>
